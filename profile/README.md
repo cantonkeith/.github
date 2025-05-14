@@ -1,6 +1,6 @@
 # 粵語計算語言學基礎設施建設組 Cantonese Computational Linguistics Infrastructure Development Workgroup
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Can_CLID)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Can_CLID)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/commonvoice.yue/)
 [![Follow me on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-md-dark.svg)](https://huggingface.co/CanCLID)
 
@@ -11,7 +11,7 @@
 1. 熟練掌握粵拼打字
 1. 習慣書寫粵文
 
-如果你識技術，尤其係 NLP 同網站開發（前端定全桟都得），噉就更加好嘞。請發郵件到 support@jyutping.org 或者加入 [Telegram 羣組](https://t.me/rime_cantonese)聯繫我哋。亦可以直接喺 [GitHub Discussions](https://github.com/orgs/CanCLID/discussions) 向我哋提意見。
+若果閣下識技術，尤其係 NLP 同網站開發（前端定全桟都得），噉就更加好嘞。歡迎以電郵 support@jyutping.org 或者透過加入 [Telegram 羣組](https://t.me/rime_cantonese)嚟聯絡我哋，你亦都可以直接喺 [GitHub Discussions](https://github.com/orgs/CanCLID/discussions) 提出意見。
 
 We are dedicated to enhancing the infrastructure for the Cantonese language. Our work spans a range of projects, including Jyutping Input Method Editors (IMEs), Cantonese text and speech corpora, Cantonese NLP tools, and educational resources for Cantonese learning.
 
